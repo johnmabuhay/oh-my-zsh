@@ -30,6 +30,9 @@ function work_in_progress() {
 # (sorted alphabetically)
 #
 
+alias oavs='open -a /Applications/Visual\ Studio\ Code.app/'
+alias oai='open -a /Applications/IntelliJ\ IDEA.app/'
+
 alias g='git'
 
 alias ga='git add'
